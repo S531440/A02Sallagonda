@@ -1,0 +1,35 @@
+body{
+background-image: url("1.jpg")
+}
+img {
+    border-radius: 50%
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-github {
+  background: rgb(247, 243, 242);
+  color: white;
+}
+
+.fa-linkedin {
+  background: white;
+  color: #f0f1ec;
+}
+.fa-bitbucket {
+  background: #ebe8e8;
+  color: rgb(184, 28, 28);
+
+}
+
+.container-fluid{
+	
+background-image:url(6883589-sea-water-pictures.jpg);
+}
+.container
+{
+
+}
