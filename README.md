@@ -3,7 +3,7 @@ Welcome !!
 
 There are total 3 pages
 1)nithin.html
-2)yourchoice.html
+2)calculate.html
 3)contact information.html
 
 nithin.html
@@ -15,10 +15,9 @@ I have also added a navbar which different page to navigate.
 
 Also I have added socail link to the pages like facebook,linkdin,gitbucket and dashboard.
 
-yourchoice.html :
+calculation.html :
 
-Here in this page iam changing the temparature from fahrenheit to celsius, and also included buttons 
-like equals for easy to understand.
+In this calculation part done the average of two numbers.User should give two inputs,by using two inputs the average which we got is the result of the calculation part. 
 
 I have also added a navbar which different page to navigate.
 
